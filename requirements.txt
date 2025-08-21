@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+networkx
+spacy
+nltk
+transformers
+protobuf
+scipy
+scikit-learn
+sentence_transformers
+IProgress
+plotly

@@ -1,0 +1,23 @@
+Tienda usa el reconocimiento facial para identificar a ladrones: así funciona
+
+
+
+LONDRES — Simon Mackenzie, un oficial de seguridad en QD Stores, un minorista de descuento en las afueras de Londres, estaba sin aliento. Acababa de perseguir a tres ladrones que se habían llevado paquetes de jabón para lavar ropa. Antes de que llegara la policía, se sentó en un escritorio en la trastienda para hacer algo importante: capturar los rostros de los delincuentes.
+
+En una computadora de escritorio vieja, revisó las imágenes de las cámaras de seguridad, deteniéndose para acercar y guardar una foto de cada ladrón. Luego inició sesión en Facewatch, un programa de reconocimiento facial usado por su tienda para identificar a ladrones. La próxima vez que esas personas ingresen a cualquier tienda a unos cuantos kilómetros a la redonda que use Facewatch, el personal de la tienda recibirá una alerta.
+
+El uso de la tecnología de reconocimiento facial por parte de la policía ha sido objeto de fuerte escrutinio en los últimos años, pero su empleo por parte de empresas privadas ha recibido menos atención. Ahora, a medida que la tecnología mejora y su costo disminuye, los sistemas están incursionando más en la vida de las personas. Ya no sólo competencia de las agencias gubernamentales, el reconocimiento facial se implementa cada vez más para identificar a los farderos y clientes problemáticos.
+
+Facewatch, una empresa británica, es empleada por casi 400 minoristas en todo el país. Por alrededor de 250 libras al mes, o aproximadamente 320 dólares, Facewatch ofrece acceso a una lista compartida por tiendas cercanas. Cuando Facewatch detecta un rostro capturado, envía una alerta a un teléfono inteligente en la tienda, donde los empleados deciden si vigilan de cerca a la persona o le piden que se retire.
+
+Mackenzie agrega una o dos caras nuevas cada semana, dijo, principalmente de personas que roban productos de bajo costo. Y dijo que Facewatch lo alerta al menos una vez al día de que alguien en la lista de vigilancia ha entrado a la tienda.
+
+Entre las naciones democráticas, Gran Bretaña está a la vanguardia en el uso del reconocimiento facial en vivo, con tribunales y reguladores aprobando su uso. La policía de Londres y Cardiff está experimentando con la tecnología para identificar a los delincuentes buscados mientras caminan por la calle. En mayo, se utilizó para escanear la multitud en la coronación del Rey Carlos III.
+
+Pero el uso por parte de los minoristas ha generado críticas como una solución desproporcionada para delitos menores. En una queja legal el año pasado, Big Brother Watch, un grupo de la sociedad civil, lo calificó de “orwelliano en extremo”.
+
+Fraser Sampson, comisionado de biometría y cámaras de vigilancia de Gran Bretaña, dijo que había “nerviosismo y vacilación” en torno a la tecnología por preocupaciones de privacidad y algoritmos de bajo rendimiento en el pasado.
+
+“Pero creo que en términos de velocidad, escala, precisión y costo, la tecnología de reconocimiento facial puede, en algunas áreas, literalmente cambiar las reglas del juego”, dijo. “Eso significa que su llegada y despliegue probablemente sea inevitable. Es sólo cuestión de cuándo”.
+
+Madeleine Stone, de Big Brother Watch, dijo que Facewatch estaba “normalizando los controles de seguridad estilo aeropuerto para actividades cotidianas como comprar un litro de leche”.
