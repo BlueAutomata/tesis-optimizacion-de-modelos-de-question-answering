@@ -15,3 +15,5 @@ IProgress
 plotly
 flair
 gensim
+pyarrow
+openpyxl
