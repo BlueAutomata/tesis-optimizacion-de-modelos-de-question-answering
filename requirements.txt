@@ -17,3 +17,6 @@ flair
 gensim
 pyarrow
 openpyxl
+IProgress
+hf_xet
+textstat
