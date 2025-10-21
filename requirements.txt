@@ -20,3 +20,6 @@ openpyxl
 IProgress
 hf_xet
 textstat
+unidecode
+hide_code
+pandoc
