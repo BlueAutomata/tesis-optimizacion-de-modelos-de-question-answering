@@ -24,3 +24,5 @@ unidecode
 hide_code
 pandoc
 openai
+datasets
+evaluate
